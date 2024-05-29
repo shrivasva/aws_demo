@@ -1,6 +1,6 @@
 {
-  "DemoLambda" : {
-    "name" : "DemoLambda",
+  "hello_world-test" : {
+    "name" : "hello_world-test",
     "lambda_path" : "C:\\vivek\\learn\\aws\\lambda\\syndicate\\DemoSyndicateJava",
     "version" : "1.0.0",
     "func_name" : "com.DemoSyndicateJava.Demolambda",
